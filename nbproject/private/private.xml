@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/profit/ProfitMiner.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/test/TestList.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/profit/miner/Order.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/test/Test.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/Tester.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/profit/miner/ui/OrderEntryPanel.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/test/MyClass.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/profit/TradeManager.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/test/TestQues.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/profit/miner/ui/TopPanel.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/profit/strategy/Strategy.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/profit/StrategyExecutor.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/model/SpinnerPrecisionModel.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/profit/miner/ProfitMinerApplication.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/profit/miner/ui/ProfitMinerForm.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/profit/miner/OrderType.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/profit/miner/Instrument.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/profit/miner/ui/TradePanel.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FIXProfitMiner/src/profit/strategy/impl/BuyStopSellStopScapler.java</file>
+        </group>
+    </open-files>
+</project-private>
